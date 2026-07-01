@@ -15,12 +15,6 @@ Kullanıcı adı veya şifre toplamaz, veri göndermez, kötü amaçlı hiçbir 
 
 ---
 
-## 🚀 Canlı Önizleme
-
-GitHub Pages ile yayınlandıysa:  
-👉 [https://KULLANICI_ADIN.github.io/fabulous-paypal-login/](https://KULLANICI_ADIN.github.io/fabulous-paypal-login/)
-
----
 
 ## 🛠️ Kullanım
 
